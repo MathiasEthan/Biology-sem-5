@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "cd361ad566aab56f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5f2459244217fe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5edd04a07b6c981f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4efcf1c3b65c2fca",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fd30f804ffa352a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "affc36d8e9bef501",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "21c2302d8ab38c1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "22fb42941b09d027",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f92d686f498c852",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c1fbc40c7aadce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62238e562962392a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4df2c66e47875038",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1267a924d13424b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2d41f2999fb4dabe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5edd04a07b6c981f",
+  "lastOpenFiles": [
+    "Bacteria.md",
+    "Microbiology and Drug Discovery/Microbiology.md",
+    "Microbiology and Drug Discovery/Bacteria.md",
+    "Microbiology.md",
+    "Microbiology and Drug Discovery/Energy & Carbon Utilization.md",
+    "Microbiology and Drug Discovery/Module 6 - Microbiology and Drug Discovery.pdf",
+    "Nitrogenous Excretion.md",
+    "Microbiology and Drug Discovery/Nitrogenous Excretion.md",
+    "Microbiology and Drug Discovery/Classification.md",
+    "Untitled",
+    "Microbiology and Drug Discovery/Phototrophs.md",
+    "Microbiology and Drug Discovery/Autotrophs.md",
+    "Microbiology and Drug Discovery/Heterotrophs.md",
+    "Microbiology and Drug Discovery/Chemotrophs.md",
+    "Welcome.md",
+    "create a link.md",
+    "Microbiology and Drug Discovery",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
